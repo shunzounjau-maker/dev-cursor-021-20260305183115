@@ -1,0 +1,23 @@
+# Backend
+backend/target/
+backend/data/
+backend/backend.log
+*.class
+*.jar
+!backend/target/cms-1.0.0.jar
+
+# Frontend
+frontend/node_modules/
+frontend/frontend.log
+
+# Tools (large binaries)
+/workspace/tools/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
